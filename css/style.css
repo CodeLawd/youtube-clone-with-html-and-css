@@ -181,6 +181,18 @@ body {
   font-size: 0.75rem;
 }
 
+footer {
+  background-color: rgb(255, 255, 255);
+  position: sticky;
+  bottom: 0;
+  text-align: center;
+  padding: 15px 0;
+  font-weight: bold;
+  font-size: 0.8rem;
+  box-shadow: 1px 3px 5px #999;
+  /* color: #fff; */
+}
+
 @media (max-width: 1500px) {
   .main-content {
     grid-template-columns: repeat(4, 1fr);
