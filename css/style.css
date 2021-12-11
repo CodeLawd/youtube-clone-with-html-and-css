@@ -93,7 +93,8 @@ body {
   min-width: 210px;
   background-color: #fff;
   position: sticky;
-  top: 50px;
+  top: 60px;
+  float: left;
 }
 
 /* aside {
@@ -123,16 +124,15 @@ body {
 }
 
 .main-body {
-  display: flex;
+  /* display: flex; */
   /* position: */
+  /* float: left; */
+  clear: both;
 }
 
-/* .main-content {
-  position: relative;
-  left: 220px;
-  flex: 0.88;
-  overflow-y: scroll !important;
-} */
+.main-content {
+  /* float: right */
+}
 
 .main-content-title {
   display: flex;
