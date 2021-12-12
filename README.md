@@ -6,3 +6,6 @@ Hey there!
 You can clone this repo, fork it or do whatever you like with it (but please don't delete it 😄).
 
 This clone was built as a fun prject in class. Nothing serious.
+
+
+You can access the full site here https://codelawd.github.io/youtube-clone-with-html-and-css/
